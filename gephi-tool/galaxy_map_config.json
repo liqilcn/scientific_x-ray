@@ -1,0 +1,24 @@
+{
+    "node_class":"paper",
+    "background": 1,
+    "introduction": "Here you can see the citation relationship of seminal paper and papers that references it.",
+    "type": "seminal_paper_map",
+    "version": 0,
+    "label_font_size_ratio": 3,
+    "font": "NotoSansCJKsc-Regular.otf",
+    "layout": [
+        {
+            "algorithm": "ForceAtlas2",
+            "args": {
+                "setScalingRatio": "15.0",
+                "setEdgeWeightInfluence": "1.0",
+                "setBarnesHutOptimize": "true",
+                "setBarnesHutTheta": "1.2",
+                "setThreadsCount": "3",
+                "setJitterTolerance": "1.0",
+                "setGravity": "1.0"
+            },
+            "iteration": "Math.floor(nodeCount*Math.log(nodeCount)*0.01)+1500"
+        }
+    ]
+}

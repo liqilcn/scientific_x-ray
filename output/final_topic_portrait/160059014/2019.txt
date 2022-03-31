@@ -1,0 +1,7 @@
+\begin{tabular}{p{1cm}p{7.5cm}p{3cm}p{2cm}}
+\toprule
+Empty DataFrame
+Columns: Index(['Label', 'Title', 'Knowledge Entropy', 'Published Year'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
