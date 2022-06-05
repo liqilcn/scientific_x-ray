@@ -1,7 +1,7 @@
 # Scientific X-ray
 
 ## Usage
-0. get data from (https://pan.baidu.com/s/11wgmcBJf0zf3aaTOSy89eQ) , the extraction code is *44ph*
+0. get data from (https://drive.google.com/file/d/1R5Jk5el5fCQ6gp-hAZIY0TxyjNpFqPp_/view?usp=sharing)
 1. place corresponding .gml files into [./input/source_gml/](./input/source_gml/)
 2. run [gen_intermediate_files.py](./src/gen_intermediate_files.py) to generate intermediate files
 3. run [ilf_fitting.py](./src/ilf_fitting.py) to fit ILF
